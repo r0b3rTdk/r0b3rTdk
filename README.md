@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robert.stackend@gmail.com)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-dk&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact)
 ## tecnologias que uso normalmente
 
 <div style="display: incline_block"><br/>
