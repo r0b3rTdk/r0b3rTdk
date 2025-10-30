@@ -1,81 +1,101 @@
-<h1 align="center">👋 Olá, eu sou Robert Emanuel</h1>
-<h3 align="center">💻 Backend Developer | Data & Cybersecurity Enthusiast</h3>
+<header align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=1000&lines=Olá,+sou+Robert+Emanuel!;Desenvolvedor+Back-End+%26+Cibersegurança+💻;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
+</header>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=r0b3rTdk&label=Visualizações+do+Perfil&color=00FF88&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/r0b3rTdk?color=00FF88&style=flat" alt="Stars"/>
+</p>
 
 ---
 
-### 🌎 Conecte-se comigo  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-emanuel/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robert.stackend@gmail.com)
+## 🧠 Sobre Mim
+
+Sou **Robert Emanuel**, desenvolvedor **Back-End** com foco em **automação, segurança e integração de sistemas**.  
+Atuo no desenvolvimento de **APIs escaláveis**, **microserviços** e **soluções inteligentes** com **Python, C e JavaScript**.  
+
+Tenho formação sólida em **Análise de Dados** e **Cibersegurança (Google/Coursera)**, além de experiência prática em **redes, SIEMs e pipelines de dados**.  
+Busco constantemente evoluir na área de backend, combinando **engenharia de software** com **princípios de segurança e performance**.
 
 ---
 
-## 🧠 Sobre mim  
-
-Sou **estudante de Ciência da Computação (6º período)** apaixonado por transformar ideias em soluções reais.  
-O que mais me motiva é ver algo que **eu construí funcionando** — entender o problema, errar, ajustar e, no final, ver tudo rodando perfeitamente.  
-
-Acredito que meu diferencial está na **busca diária por evolução**. Todos os dias procuro ser um pouco melhor do que ontem — mais rápido, mais criativo, mais completo.  
-Essa vontade me fez explorar várias áreas além do desenvolvimento backend, como **cibersegurança**, **análise de dados**, **jogos** e até **front-end**, o que me tornou um **desenvolvedor versátil e adaptável**.  
-
-💡 *Minha filosofia é simples:*  
-> Aprendo fazendo. Errar faz parte do processo — só paro quando entendo completamente o erro e o acerto.  
-
-🎯 Meu objetivo é me tornar um **Desenvolvedor Backend Sênior**, unindo segurança, análise e performance para criar sistemas robustos, inteligentes e eficientes.
-
----
-
-## ⚙️ Tech Stack  
-
-### 💬 Linguagens  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🧰 Frameworks & Ferramentas  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## 🧩 Projetos em Destaque  
-
-| Projeto | Tecnologias | Descrição |
-|----------|--------------|------------|
-| 🛰️ [**SOAR Lite**](https://github.com/r0b3rTdk/SOAR-Lite) | FastAPI, APIs externas (AbuseIPDB, ip-api) | Sistema de ingestão e enriquecimento de alertas com geolocalização e reputação de IPs. |
-| ⚙️ [**Network Observer Microservice**](https://github.com/r0b3rTdk/Network-Observer) | FastAPI, Docker | Microserviço de monitoramento de rede com coleta de métricas (CPU, RAM, portas e ping). |
-| 🤖 [**Verzel AI SDR Agent**](https://github.com/r0b3rTdk/Verzel-AI-SDR-Agent) | FastAPI, OpenAI API, React, Vite | Sistema Full Stack com IA para automação de SDR e integração Pipefy. |
-| 📊 [**Análise Cyclistic**](https://github.com/r0b3rTdk/Cyclistic-Data-Analysis) | SQL (BigQuery), Tableau | Análise de 790k registros de viagens para insights de comportamento de clientes. |
-| 🔐 [**Cyber Lab**](https://github.com/r0b3rTdk/CyberLab) | Kali, Metasploitable, ELK Stack | Laboratório de segurança com 3 VMs para simulações e análise SIEM. |
-
----
-
-## 🧾 Certificações  
-
-- 🎓 **Google Professional Certificate – Data Analytics (Coursera)**  
-- 🔒 **Google Professional Certificate – Cybersecurity (Coursera)**  
-
----
-
-## 📊 Estatísticas do GitHub  
+## ⚙️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r0b3rTdk&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&theme=tokyonight&hide_border=false"/>
+
+| 🧩 Categoria | 💡 Tecnologias |
+|:------------:|:---------------|
+| **Linguagens** | ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Javascript](https://skillicons.dev/icons?i=javascript) ![Typescript](https://skillicons.dev/icons?i=typescript) ![SQL](https://skillicons.dev/icons?i=mysql) |
+| **Frameworks** | ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![NodeJS](https://skillicons.dev/icons?i=nodejs) |
+| **Ferramentas DevOps** | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Vscode](https://skillicons.dev/icons?i=vscode) |
+| **Segurança & Dados** | Wireshark • Hydra • ELK Stack • AbuseIPDB API • ip-api.com |
+| **Outros** | Excel Avançado • BigQuery • Power BI |
+
 </div>
 
 ---
 
-## 💬 Frase que me guia  
+## 🚀 Projetos em Destaque
 
-> “Não pare.”  
+### 🧩 [SOAR Lite](https://github.com/r0b3rTdk/SOAR-Lite)
+Sistema de **orquestração e automação de segurança (SOAR)** desenvolvido com **FastAPI**, integrando:
+- Validação e enriquecimento de IPs (via `ip-api.com` e `AbuseIPDB`);
+- Pipeline de tratamento de alertas com tratamento robusto de erros;
+- Módulo de ingestão e normalização de dados;
+- Estrutura modular e documentação completa.  
+📘 **Tecnologias:** Python, FastAPI, Requests, Docker, JSON Handling.
+
+---
+
+### 🤖 [AI SDR Agent](https://github.com/r0b3rTdk/AI-SDR-Agent)
+Agente autônomo de **prospecção inteligente** que utiliza IA para análise de perfis e priorização de leads.  
+Integra **modelos de linguagem**, automação de requisições e pipelines de dados.
+- Enriquecimento automatizado de contatos;
+- Integração com APIs externas e IA generativa;
+- Estrutura pronta para uso em CRM e análise de comportamento.  
+📘 **Tecnologias:** Python, OpenAI API, FastAPI, Pandas.
+
+---
+
+### 🌐 [Network Observer Microservice](https://github.com/r0b3rTdk/network-microservico)
+Microserviço para **monitoramento de rede** e **recursos de sistema** em tempo real via **API REST**.  
+Permite acompanhar:
+- 📊 Consumo de CPU e RAM  
+- 🌐 Latência de conexões  
+- 🔌 Status de portas  
+O projeto é **containerizado com Docker**, com endpoints performáticos e arquitetura modular.
+📘 **Tecnologias:** Python, FastAPI, psutil, Docker, Uvicorn.
+
+---
+
+### ⚡ Projeto em C — Estruturas de Dados e Desempenho
+Implementações de **estruturas de dados e algoritmos** em **C**, com foco em eficiência e clareza.  
+Inclui árvores binárias, filas e manipulação de ponteiros, com análise de complexidade e testes práticos.  
+📘 **Tecnologias:** C Puro, GCC, Linux CLI.
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0b3rTdk&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&langs_count=8&theme=react" />
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertemanueldev/)
+[![GitHub](https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r0b3rTdk)
+[![Email](https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertemanuel.dev@gmail.com)
+
+</div>
+
+---
+
+<footer align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00FF88&section=footer"/>
+</footer>
