@@ -78,7 +78,7 @@ Inclui árvores binárias, filas e manipulação de ponteiros, com análise de c
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r0b3rTdk&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&langs_count=8&theme=react" />
 </div>
 
