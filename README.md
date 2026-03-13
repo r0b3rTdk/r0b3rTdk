@@ -1,101 +1,96 @@
-<header align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=1000&lines=Olá,+sou+Robert+Emanuel!;Desenvolvedor+Back-End+%26+Cibersegurança+💻;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
-</header>
+<h1 align="center">Robert Emanuel</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=r0b3rTdk&label=Visualizações+do+Perfil&color=00FF88&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/r0b3rTdk?color=00FF88&style=flat" alt="Stars"/>
+  Desenvolvedor Back-End com foco em APIs, segurança, automação e integração de sistemas.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/robert-emanuel/">LinkedIn</a> •
+  <a href="https://github.com/r0b3rTdk/data_pipeline_api">Projeto em destaque</a> •
+  <a href="mailto:robertemanuel.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre mim
 
-Sou **Robert Emanuel**, desenvolvedor **Back-End** com foco em **automação, segurança e integração de sistemas**.  
-Atuo no desenvolvimento de **APIs escaláveis**, **microserviços** e **soluções inteligentes** com **Python, C e JavaScript**.  
+Sou desenvolvedor **Back-End** com foco em **Python, FastAPI, bancos relacionais, segurança e integração de sistemas**.
 
-Tenho formação sólida em **Análise de Dados** e **Cibersegurança (Google/Coursera)**, além de experiência prática em **redes, SIEMs e pipelines de dados**.  
-Busco constantemente evoluir na área de backend, combinando **engenharia de software** com **princípios de segurança e performance**.
+Tenho interesse em construir soluções que vão além do básico, envolvendo:
+- arquitetura de APIs
+- autenticação e autorização
+- observabilidade
+- integração entre serviços
+- troubleshooting real
+- deploy em produção
 
----
-
-## ⚙️ Tecnologias e Ferramentas
-
-<div align="center">
-
-| 🧩 Categoria | 💡 Tecnologias |
-|:------------:|:---------------|
-| **Linguagens** | ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) ![Javascript](https://skillicons.dev/icons?i=javascript) ![Typescript](https://skillicons.dev/icons?i=typescript) ![SQL](https://skillicons.dev/icons?i=mysql) |
-| **Frameworks** | ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![NodeJS](https://skillicons.dev/icons?i=nodejs) |
-| **Ferramentas DevOps** | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux) ![Vscode](https://skillicons.dev/icons?i=vscode) |
-| **Segurança & Dados** | Wireshark • Hydra • ELK Stack • AbuseIPDB API • ip-api.com |
-| **Outros** | Excel Avançado • BigQuery • Power BI |
-
-</div>
+Atualmente, venho desenvolvendo projetos voltados para **backend, automação, pipelines de dados e segurança**, buscando evoluir cada vez mais em engenharia de software e desenvolvimento de sistemas robustos.
 
 ---
 
-## 🚀 Projetos em Destaque
+## Tecnologias
 
-### 🧩 [SOAR Lite](https://github.com/r0b3rTdk/SOAR-Lite)
-Sistema de **orquestração e automação de segurança (SOAR)** desenvolvido com **FastAPI**, integrando:
-- Validação e enriquecimento de IPs (via `ip-api.com` e `AbuseIPDB`);
-- Pipeline de tratamento de alertas com tratamento robusto de erros;
-- Módulo de ingestão e normalização de dados;
-- Estrutura modular e documentação completa.  
-📘 **Tecnologias:** Python, FastAPI, Requests, Docker, JSON Handling.
-
----
-
-### 🤖 [AI SDR Agent](https://github.com/r0b3rTdk/AI-SDR-Agent)
-Agente autônomo de **prospecção inteligente** que utiliza IA para análise de perfis e priorização de leads.  
-Integra **modelos de linguagem**, automação de requisições e pipelines de dados.
-- Enriquecimento automatizado de contatos;
-- Integração com APIs externas e IA generativa;
-- Estrutura pronta para uso em CRM e análise de comportamento.  
-📘 **Tecnologias:** Python, OpenAI API, FastAPI, Pandas.
+**Back-End:** Python, FastAPI, Flask, Node.js  
+**Banco de Dados:** PostgreSQL, SQL, BigQuery  
+**ORM e Migrations:** SQLAlchemy, Alembic  
+**DevOps e Ferramentas:** Docker, Git, GitHub Actions, Linux, VS Code  
+**Segurança e Observabilidade:** JWT, RBAC, rate limiting, audit logs, security events, ELK Stack, Wireshark  
+**Outros:** JavaScript, TypeScript, Power BI, Excel Avançado
 
 ---
 
-### 🌐 [Network Observer Microservice](https://github.com/r0b3rTdk/network-microservico)
-Microserviço para **monitoramento de rede** e **recursos de sistema** em tempo real via **API REST**.  
-Permite acompanhar:
-- 📊 Consumo de CPU e RAM  
-- 🌐 Latência de conexões  
-- 🔌 Status de portas  
-O projeto é **containerizado com Docker**, com endpoints performáticos e arquitetura modular.
-📘 **Tecnologias:** Python, FastAPI, psutil, Docker, Uvicorn.
+## Projeto em destaque
+
+### Data Pipeline API
+Sistema backend com arquitetura **RAW → TRUSTED → REJEIÇÕES**, desenvolvido para simular um cenário mais próximo do mundo real.
+
+O projeto inclui:
+- ingestão e validação de eventos
+- deduplicação e persistência
+- JWT + refresh token
+- RBAC
+- API Key por source
+- rate limit e brute force protection
+- security events e audit logs
+- métricas, health checks e observabilidade
+- frontend administrativo
+- deploy em produção no Render
+
+**Repositório:**  
+https://github.com/r0b3rTdk/data_pipeline_api
+
+**Frontend publicado:**  
+https://data-pipeline-frontend.onrender.com
+
+**Swagger / API Docs:**  
+https://data-pipeline-api-p01y.onrender.com/docs
 
 ---
 
-### ⚡ Projeto em C — Estruturas de Dados e Desempenho
-Implementações de **estruturas de dados e algoritmos** em **C**, com foco em eficiência e clareza.  
-Inclui árvores binárias, filas e manipulação de ponteiros, com análise de complexidade e testes práticos.  
-📘 **Tecnologias:** C Puro, GCC, Linux CLI.
+## Outros projetos
+
+### SOAR Lite
+Projeto voltado para automação e orquestração de segurança, com validação e enriquecimento de IPs, tratamento de alertas e integração com APIs externas.  
+https://github.com/r0b3rTdk/SOAR-Lite
+
+### Network Observer Microservice
+Microserviço para monitoramento de rede e recursos de sistema em tempo real via API REST.  
+https://github.com/r0b3rTdk/network-microservico
+
+### AI SDR Agent
+Projeto voltado para automação e análise inteligente de leads com uso de IA e integração de dados.  
+https://github.com/r0b3rTdk/AI-SDR-Agent
 
 ---
 
-## 📊 Estatísticas GitHub
+## Objetivo profissional
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&langs_count=8&theme=react" />
-</div>
+Busco oportunidades para atuar com **desenvolvimento backend**, **APIs**, **segurança**, **integração de sistemas** e construção de aplicações mais robustas, escaláveis e bem estruturadas.
 
 ---
 
-## 📫 Contato
+## Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertemanueldev/)
-[![GitHub](https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r0b3rTdk)
-[![Email](https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertemanuel.dev@gmail.com)
-
-</div>
-
----
-
-<footer align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=00FF88&section=footer"/>
-</footer>
+- LinkedIn: https://www.linkedin.com/in/robert-emanuel/
+- GitHub: https://github.com/r0b3rTdk
+- Email: robertemanuel.dev@gmail.com
