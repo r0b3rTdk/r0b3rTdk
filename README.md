@@ -115,19 +115,6 @@ https://data-pipeline-api-p01y.onrender.com/docs
 
 ---
 
-# 📊 Linguagens mais utilizadas
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"
-/>
-
-</div>
-
----
-
 # 🎯 Objetivo Profissional
 
 Busco oportunidades como **Desenvolvedor Back-end Python Júnior**, contribuindo na construção de APIs REST, integrações entre sistemas e aplicações escaláveis utilizando Python, FastAPI, SQL e Docker.
