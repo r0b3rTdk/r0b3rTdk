@@ -1,134 +1,160 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=00C896&section=header&text=Robert%20Emanuel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=900&color=00C896&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Back-End;APIs%2C+Seguran%C3%A7a+e+Integra%C3%A7%C3%A3o+de+Sistemas;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=00C896&section=header&text=Robert%20Emanuel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-  <br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1200&color=00C896&center=true&vCenter=true&width=900&lines=Backend+Python+Developer;Building+REST+APIs+with+FastAPI;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker"/>
 
-  <a href="https://www.linkedin.com/in/robert-emanuel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/r0b3rTdk/data_pipeline_api">
-    <img src="https://img.shields.io/badge/Projeto%20em%20Destaque-00C896?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:robertemanuel.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br>
 
-  <br/><br/>
+<a href="https://www.linkedin.com/in/robert-emanuel/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=r0b3rTdk&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=00C896&style=flat" />
-  <img src="https://img.shields.io/github/followers/r0b3rTdk?style=flat&color=00C896" />
-</div>
+<a href="mailto:robert.stackend@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## 👨‍💻 Sobre mim
-
-Sou **desenvolvedor Back-End** com foco em **APIs, segurança, automação e integração de sistemas**.
-
-Tenho interesse em construir soluções que vão além do básico, envolvendo:
-- autenticação e autorização
-- arquitetura de APIs
-- observabilidade
-- pipelines de dados
-- troubleshooting real
-- deploy em produção
-
-Atualmente venho fortalecendo meu portfólio com projetos voltados para **backend, segurança e sistemas robustos**, buscando oportunidades para crescer profissionalmente na área.
-
----
-
-## 🛠️ Stack principal
-
-<div align="center">
-
-### Back-End & Dados
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,postgres,mysql" />
-
-### DevOps & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode" />
-
-### Linguagens & Extras
-<img src="https://skillicons.dev/icons?i=javascript,typescript,c" />
+<a href="https://github.com/r0b3rTdk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 Projeto em destaque
+# Olá! 👋
 
-### [Data Pipeline API](https://github.com/r0b3rTdk/data_pipeline_api)
+Sou **Desenvolvedor Back-end** com foco em **Python**, **FastAPI** e construção de APIs REST.
 
-Projeto backend desenvolvido para simular um cenário mais próximo do mundo real, com arquitetura:
+Gosto de desenvolver aplicações voltadas para problemas próximos do mundo real, explorando autenticação, integração entre sistemas, observabilidade, persistência de dados, segurança e deploy.
 
-**RAW → TRUSTED → REJEIÇÕES**
+Meu objetivo é construir software organizado, fácil de manter e evoluir, sempre buscando aplicar boas práticas de arquitetura e desenvolvimento.
 
-Principais pontos do projeto:
-- ingestão, validação e deduplicação de eventos
-- JWT + refresh token
+---
+
+# 🚀 Projetos em Destaque
+
+## Data Pipeline API
+
+Pipeline de ingestão de eventos inspirado em cenários reais de backend.
+
+**Stack**
+
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- JWT
+- Nginx
+
+**Principais recursos**
+
+- Pipeline RAW → TRUSTED → REJEIÇÕES
+- JWT + Refresh Token
+- API Key
 - RBAC
-- API Key por source
-- rate limit e brute force protection
-- security events e audit logs
-- observabilidade com health, ready e metrics
-- frontend administrativo
-- deploy em produção no Render
+- Rate Limiting
+- Observabilidade
+- Audit Logs
+- Deploy no Render
 
-🔗 **Repositório:**  
+**Links**
+
+📦 Repositório  
 https://github.com/r0b3rTdk/data_pipeline_api
 
-🌐 **Frontend publicado:**  
+🌐 Frontend  
 https://data-pipeline-frontend.onrender.com
 
-📘 **Swagger / API Docs:**  
+📘 Swagger  
 https://data-pipeline-api-p01y.onrender.com/docs
 
 ---
 
-## 📌 Outros projetos
+## Outros Projetos
 
-### [SOAR Lite](https://github.com/r0b3rTdk/SOAR-Lite)
-Projeto voltado para automação e orquestração de segurança, com validação e enriquecimento de IPs, tratamento de alertas e integração com APIs externas.
-
-### [Network Observer Microservice](https://github.com/r0b3rTdk/network-microservico)
-Microserviço para monitoramento de rede e recursos de sistema em tempo real via API REST.
-
-### [AI SDR Agent](https://github.com/r0b3rTdk/AI-SDR-Agent)
-Projeto de automação e análise inteligente de leads com uso de IA e integração de dados.
+| Projeto | Descrição |
+|----------|-----------|
+| **SOAR Lite** | API para enriquecimento e classificação automática de incidentes de segurança. |
+| **Network Observer Microservice** | Microserviço para monitoramento de CPU, memória e conectividade de rede. |
+| **AI SDR Agent API** | API para automação do processo de prospecção utilizando IA. |
+| **InsightAI Pipeline** | Pipeline para processamento e análise de documentos utilizando IA. |
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Stack
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&langs_count=8&theme=react&hide_border=true" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask"/>
+
+### Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux"/>
+
+### Complementar
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript"/>
+
 </div>
 
 ---
 
-## 🎯 Objetivo
+# 📈 Atualmente
 
-Busco oportunidades para atuar com **desenvolvimento backend**, **APIs**, **segurança**, **integração de sistemas** e construção de aplicações mais robustas, escaláveis e bem estruturadas.
+- Evoluindo projetos de backend voltados para cenários próximos de produção.
+- Aprimorando testes automatizados, observabilidade e arquitetura de APIs.
+- Buscando minha primeira oportunidade como Desenvolvedor Back-end Python.
 
 ---
 
-## 📫 Contato
+# 📊 Linguagens mais utilizadas
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/robert-emanuel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/r0b3rTdk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:robertemanuel.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&theme=react&hide_border=true"/>
+
 </div>
 
-<br/>
+---
+
+# 🎯 Objetivo Profissional
+
+Busco oportunidades como **Desenvolvedor Back-end Python Júnior**, contribuindo na construção de APIs REST, integrações entre sistemas e aplicações escaláveis utilizando Python, FastAPI, SQL e Docker.
+
+Áreas como **Segurança**, **Dados** e **IA** fazem parte do meu interesse técnico, mas meu foco principal é desenvolvimento Back-end.
+
+---
+
+# 📫 Contato
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00C896&section=footer"/>
+
+<a href="https://www.linkedin.com/in/robert-emanuel/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:robert.stackend@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/r0b3rTdk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00C896&section=footer"/>
+
 </div>
