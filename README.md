@@ -119,7 +119,10 @@ https://data-pipeline-api-p01y.onrender.com/docs
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&theme=react&hide_border=true"/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0b3rTdk&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"
+/>
 
 </div>
 
