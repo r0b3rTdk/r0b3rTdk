@@ -111,7 +111,6 @@ https://data-pipeline-api-p01y.onrender.com/docs
 
 - Evoluindo projetos de backend voltados para cenários próximos de produção.
 - Aprimorando testes automatizados, observabilidade e arquitetura de APIs.
-- Buscando minha primeira oportunidade como Desenvolvedor Back-end Python.
 
 ---
 
